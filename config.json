@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcave",
+        "uuid": 15684370,
+        "checksum": "01nu3u"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
